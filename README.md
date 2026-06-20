@@ -52,7 +52,7 @@ Wrong guesses: 0/6
 🎉 You won! The word was 'python'.
 
 ## File Structure
-task_hangman.py
+  TASK HUNGMAN.PY
 ## Possible Future Improvements
 - Add ASCII art for the hangman figure as guesses run out
 - Allow difficulty levels (longer words, fewer guesses)
