@@ -31,3 +31,29 @@ python3 task1_hangman.py
 ```
 
 ## Sample Gameplay
+========================================
+
+Welcome to Hangman!
+
+The word has 6 letters. You have 6 wrong guesses allowed.
+Word: _ _ _ _ _ _
+
+Wrong guesses: 0/6
+
+Guess a letter: p
+
+Good guess! 'p' is in the word.
+Word: p _ _ _ _ _
+
+Wrong guesses: 0/6
+
+...
+
+🎉 You won! The word was 'python'.
+
+## File Structure
+task_hangman.py
+## Possible Future Improvements
+- Add ASCII art for the hangman figure as guesses run out
+- Allow difficulty levels (longer words, fewer guesses)
+- Load word list from an external file
